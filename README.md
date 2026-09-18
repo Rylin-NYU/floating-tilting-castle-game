@@ -1,7 +1,7 @@
 # Floating/Tilting Castle Game
 
 An interactive Arduino-based game that uses an **MPU6050 accelerometer/gyroscope** to detect the tilt and movement of a physical castle controller. The project combines Arduino hardware with **LEDs, servo motors, buttons, and Processing** to create an interactive game with visual and mechanical feedback.
-
+![Floating/Tilting Castle Game](castle-game.jpg)
 ## Features
 
 * MPU6050 motion sensor for tilt-based controls
