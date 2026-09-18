@@ -30,3 +30,6 @@ An interactive Arduino-based game that uses an **MPU6050 accelerometer/gyroscope
 
 The project combines physical hardware with programmed game mechanics and real-time sensor input to create an interactive gaming experience. The MPU6050 detects the controller's movement and tilt, which is communicated between the Arduino and Processing to control gameplay and provide visual and mechanical feedback.
 **Portfolio:** [View my portfolio](https://sites.google.com/nyu.edu/ryan-lin-ima-projects/home?authuser=5)
+## Demo
+
+[Watch the Laser Harp in action on YouTube](https://www.youtube.com/watch?v=cRsNjxpxAt4)
